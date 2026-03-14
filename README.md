@@ -1,4 +1,4 @@
-<h1 align="center">안녕하세요, 저는 OOO입니다 👋</h1>
+<h1 align="center">문제를 이해하고 해결책을 만들어가는 OOO입니다 👋</h1>
 
 <p align="center">
   소프트웨어마이스터고등학교 2학년 | Backend / Python Developer
@@ -17,6 +17,7 @@
 ## 🛠 Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-#02569B?style=for-the-badge&logo=Flutter&logoColor=white))
 
 ---
 
