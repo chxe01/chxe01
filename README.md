@@ -44,7 +44,7 @@
 - **Link**: [GitHub](https://github.com/chxe01/24365-MASAN_STRRET) | [Notion](https://www.notion.so/2025-2c50b308cb7380c1904dcd63d7c6437a?source=copy_link)
 
 ### On-gil
-> 산불 초기 진압과 확산 방지를 위한 산불, 연기 감지 시스템 🔥
+> 시각장애인 횡단보도 보행 보조 시스템 🧑🏻‍🦯‍➡️
 
 - **period**: 2025.01 ~ 2025.03
 - **Position**: PM & APP
