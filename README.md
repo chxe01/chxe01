@@ -56,4 +56,4 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=chxe01&show_icons=true&theme=tokyonight)
 
 ## 🌱 BeakJoon
-[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=여기에_백준_아이디)](https://solved.ac/여기에_백준_아이디)
+[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=chxe_01)](https://solved.ac/chxe_01)
