@@ -51,7 +51,7 @@
 ### On-gil
 > 시각장애인 횡단보도 보행 보조 시스템 🧑🏻‍🦯‍➡️
 
-- **period**: 2025.01 ~ 2025.03
+- **period**: 2026.01 ~ 2026.03
 - **Position**: PM & APP
 - **Tech Stack**: Flutter
 - **Link**: [GitHub](https://github.com/2026-gbsw-project-SISO) | [Notion](https://www.notion.so/2026-SISO-2e20b308cb7380d69ee5ee3b8c7637e8?source=copy_link)
