@@ -1,4 +1,4 @@
-<h1 align="center">문제를 이해하고 해결책을 만들어가는 개발자 유채민입니다 🚀</h1>
+<h1 align="center">문제를 이해하고 해결책을 만들어가는 개발자, 유채민입니다 🚀</h1>
 
 <p align="center">
   경북소프트웨어마이스터고등학교 1기 | ML Engineer & Data Scientist
