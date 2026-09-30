@@ -1,10 +1,11 @@
 <!-- ⚠️ USERNAME 을 본인 GitHub 아이디로 전부 바꿔주세요 -->
  
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:ffffff&height=220&section=header&text=CHAEMIN&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=Data%20%C2%B7%20Analysis%20%C2%B7%20Insight&descSize=18&descAlignY=58&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:ffffff&height=220&section=header&text=Yoo Chae Min&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=Data%20%C2%B7%20Analysis%20%C2%B7%20Insight&descSize=18&descAlignY=58&animation=fadeIn" width="100%"/>
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=888888&center=true&vCenter=true&width=600&lines=Junior+Data+Scientist+in+the+making;Turning+raw+data+into+decisions;print('Hello,+World!')" alt="typing"/>
 </a>
+ 
 <br/>
 ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas&logoColor=white)
@@ -20,14 +21,10 @@
 ```python
 class Me:
     def __init__(self):
-        self.name = "채민"
-        self.role = "Data Science Job Seeker"
+        self.name = "유채민"
+        self.role = "Data Analyst"
         self.language = "Python"
-        self.interests = ["Data Analysis", "Visualization", "Machine Learning"]
-        self.philosophy = "정답보다 과정. 과정이 쌓이면 정답은 따라온다."
- 
-    def now(self):
-        return "Building projects & learning something new every day"
+        self.philosophy = "데이터를 통해 가치 있는 변화를 만듭니다."
 ```
  
 <br/>
@@ -36,28 +33,20 @@ class Me:
 | Category | Tools |
 | :--- | :--- |
 | **Language** | Python · SQL |
-| **Analysis** | Pandas · NumPy · SciPy |
-| **Visualization** | Matplotlib · Seaborn · Plotly |
+| **Analysis** | Pandas · NumPy |
+| **Visualization** | Matplotlib · Seaborn  |
 | **ML** | scikit-learn |
 | **Environment** | Jupyter · Git · GitHub |
  
-<br/>
-## ◼ Featured Projects
- 
-| Project | Description | Stack |
-| :--- | :--- | :--- |
-| [**Project 01**](https://github.com/USERNAME/REPO) | 한 줄 설명 (문제 → 방법 → 결과) | `Python` `Pandas` |
-| [**Project 02**](https://github.com/USERNAME/REPO) | 한 줄 설명 (문제 → 방법 → 결과) | `Python` `scikit-learn` |
-| [**Project 03**](https://github.com/USERNAME/REPO) | 한 줄 설명 (문제 → 방법 → 결과) | `Python` `SQL` |
- 
+
 <br/>
 ## ◻ GitHub Stats
  
 <div align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&hide_border=false&bg_color=000000&title_color=ffffff&text_color=cccccc&icon_color=ffffff&border_color=ffffff&border_radius=8"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&bg_color=000000&title_color=ffffff&text_color=cccccc&border_color=ffffff&border_radius=8"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=chxe01&show_icons=true&hide_border=false&bg_color=000000&title_color=ffffff&text_color=cccccc&icon_color=ffffff&border_color=ffffff&border_radius=8"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chxe01&layout=compact&bg_color=000000&title_color=ffffff&text_color=cccccc&border_color=ffffff&border_radius=8"/>
 <br/>
-<img src="https://streak-stats.demolab.com?user=USERNAME&background=000000&border=FFFFFF&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=CCCCCC&dates=888888&hide_border=false" height="170"/>
+<img src="https://streak-stats.demolab.com?user=chxe01&background=000000&border=FFFFFF&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=CCCCCC&dates=888888&hide_border=false" height="170"/>
 </div>
 <br/>
 ## ◼ Contact
