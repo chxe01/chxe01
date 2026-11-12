@@ -60,20 +60,6 @@ I'm passionate about exploring data, discovering patterns, and solving real-worl
 
 ---
 
-### ✦ Activities & Experience | 활동 및 경험
-
-| Period | Activity |
-|:---:|:---|
-| 2025.08 | 🌏 G-STEP 2025 — 싱가포르 글로벌 체험학습 |
-| 2026.01 | 🌉 실리콘밸리 SW 글로벌 체험학습 |
-| 2026.03 – 2026.06 | 💻 AI 전공동아리 AI 고라 차장 |
-| 2026.07 – Present | 🖤 AI 전공동아리 AI 고라 부장 |
-| 2026.08 – Present | 🏭 아진산업 산학연계 캡스톤 프로젝트 팀장 |
-
-<br/>
-
----
-
 ### ✦ Contribution Snake | GitHub 활동
 
 <picture>
