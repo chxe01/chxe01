@@ -6,13 +6,13 @@
 
 ### ✦ About Me | 소개
 
-**데이터를 통해 가치 있는 변화를 만듭니다.**
+**데이터를 통해 가치 있는 변화를 만듭니다.** <br>
 경북소프트웨어마이스터고등학교 2학년 데이터 분석가 지망생 유채민입니다.
 
-데이터를 탐색하고 패턴을 발견하며,  
+데이터를 탐색하고 패턴을 발견하며, <br>
 분석을 통해 실제 문제를 해결하는 과정에 관심이 있습니다.
 
-**Creating meaningful change through data.**
+**Creating meaningful change through data.** <br>
 I'm Yoo Chaemin, a second-year student at Gyeongbuk Software Meister High School and an aspiring Data Analyst.
 
 I'm passionate about exploring data, discovering patterns, and solving real-world problems through data-driven analysis.
@@ -98,9 +98,11 @@ I'm passionate about exploring data, discovering patterns, and solving real-worl
 
 ### ✦ Thanks for Visiting!
 
-시간 내어 저의 포트폴리오를 읽어주셔서 감사합니다.
-
+시간 내어 저의 포트폴리오를 읽어주셔서 감사합니다. <br>
 궁금한 점이 있다면 아래로 연락주세요!
+
+Thank you for taking the time to explore my portfolio. <br>
+If you have any questions, please feel free to contact me using the links below!
 
 
 <div align="center">
