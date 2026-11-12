@@ -63,18 +63,9 @@ I'm passionate about exploring data, discovering patterns, and solving real-worl
 ### ✦ Contribution Snake | GitHub 활동
 
 <picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/chxe01/chxe01/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/chxe01/chxe01/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="GitHub Contribution Snake"
-    src="https://raw.githubusercontent.com/chxe01/chxe01/output/github-contribution-grid-snake.svg"
-  />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/chxe01/chxe01/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/chxe01/chxe01/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/chxe01/chxe01/output/github-contribution-grid-snake.svg">
 </picture>
 
 </div>
@@ -85,10 +76,12 @@ I'm passionate about exploring data, discovering patterns, and solving real-worl
 ### ✦ Thanks for Visiting!
 
 시간 내어 저의 포트폴리오를 읽어주셔서 감사합니다. <br>
-궁금한 점이 있다면 아래로 연락주세요!
+궁금한 점이 있다면 아래로 연락주세요! <br>
+Notion 탭을 클릭하여 저의 포트폴리오로 놀러오세요!
 
 Thank you for taking the time to explore my portfolio. <br>
-If you have any questions, please feel free to contact me using the links below!
+If you have any questions, please feel free to contact me using the links below! <br>
+Click the Notion tab to explore more of my work and projects!
 
 
 <div align="center">
@@ -96,5 +89,6 @@ If you have any questions, please feel free to contact me using the links below!
   <a href="https://www.linkedin.com/in/채민-유-873748437/"><img src="https://img.shields.io/badge/LinkedIn-333333?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://www.instagram.com/chxe_01/"><img src="https://img.shields.io/badge/Instagram-555555?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="https://github.com/chxe01"><img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://app.notion.com/p/Data-Analyst-4120b308cb73800b9acdee063824b0f0?source=copy_link"><img src="https://img.shields.io/badge/Notion-666666?style=for-the-badge&logo=notion&logoColor=white"/></a>
 
 </div>
